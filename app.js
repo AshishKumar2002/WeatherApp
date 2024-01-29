@@ -1,4 +1,4 @@
-const apikey = "47532375a56648f9cc1f493355ef72d2";
+const apikey = "######################";
 
 const apiurl =
   "https://api.openweathermap.org/data/2.5/weather?&units=metric&q=";
